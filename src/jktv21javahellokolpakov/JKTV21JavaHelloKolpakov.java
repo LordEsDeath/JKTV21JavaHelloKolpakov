@@ -17,6 +17,8 @@ public class JKTV21JavaHelloKolpakov {
     public static void main(String[] args) {
         String hello = "Java Hello";
         System.out.println(hello);
+        System.out.println(hello);
+        System.out.println(hello);
     }
     
 }
